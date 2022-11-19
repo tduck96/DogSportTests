@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{D303A88E-4196-4277-B72A-40C0A56F7BAD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealPetApi/Properties/launchSettings.json">
+    <Files>
+      <File FileName="RealPetApi/Repositories/HandlerRepository.cs" Line="7" Column="1" IsPinned="True" />
+      <File FileName="RealPetApi/appsettings.json" Line="20" Column="1" IsPinned="True" />
+      <File FileName="RealPetApi/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="RealPetApi/Program.cs" />
+      <File FileName="RealPetApi/.gitignore" />
+      <File FileName="../../.nuget/NuGet/NuGet.Config" />
+      <File FileName="RealPetApi/RealPetApi.csproj" />
+      <File FileName="RealPetApi/appsettings.Development.json" />
+      <File FileName="RealPetApi/README.md" />
+      <File FileName="RealPetApi/Services/AuthService.cs" />
+      <File FileName="RealPetApi/Repositories/ClubRepository.cs" />
+      <File FileName="ReakPetApi.Tests/UnitTest1.cs" />
+      <File FileName="ReakPetApi.Tests/Controller/BreedControllerTests.cs" />
+      <File FileName="RealPetApi/Repositories/BreedRepository.cs" />
+      <File FileName="ReakPetApi.Tests/Controller/AuthHandlerTests.cs" />
+      <File FileName="ReakPetApi.Tests/Controller/ClubControllerTests.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RealPetApi" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="RealPetApi" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RealPetApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

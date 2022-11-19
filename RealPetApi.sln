@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPetApi", "RealPetApi\RealPetApi.csproj", "{D303A88E-4196-4277-B72A-40C0A56F7BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReakPetApi.Tests", "ReakPetApi.Tests\ReakPetApi.Tests.csproj", "{FE4BCA4D-C286-456F-AD47-03C21BFBEA7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D303A88E-4196-4277-B72A-40C0A56F7BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D303A88E-4196-4277-B72A-40C0A56F7BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D303A88E-4196-4277-B72A-40C0A56F7BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D303A88E-4196-4277-B72A-40C0A56F7BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE4BCA4D-C286-456F-AD47-03C21BFBEA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4BCA4D-C286-456F-AD47-03C21BFBEA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4BCA4D-C286-456F-AD47-03C21BFBEA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4BCA4D-C286-456F-AD47-03C21BFBEA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39B9BB40-4BA0-4EB3-A697-E484BDCB9290}
+	EndGlobalSection
+EndGlobal
