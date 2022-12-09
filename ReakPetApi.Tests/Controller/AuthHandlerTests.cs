@@ -8,6 +8,7 @@ using RealPetApi.Dtos;
 using RealPetApi.Interfaces;
 using RealPetApi.Models;
 using RealPetApi.Services;
+using Xunit;
 
 namespace ReakPetApi.Tests.Controller
 {

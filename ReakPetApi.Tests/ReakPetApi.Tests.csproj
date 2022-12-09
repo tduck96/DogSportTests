@@ -24,9 +24,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="Controller\" />
     <None Remove="FakeItEasy" />
     <None Remove="FluentAssertions" />
+    <None Remove="Controller\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controller\" />

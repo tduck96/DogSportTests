@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using AutoMapper;
 using FakeItEasy;
 using FluentAssertions;
@@ -7,6 +8,7 @@ using RealPetApi.Data;
 using RealPetApi.Dtos;
 using RealPetApi.Interfaces;
 using RealPetApi.Models;
+using Xunit;
 
 namespace ReakPetApi.Tests.Controller
 {
