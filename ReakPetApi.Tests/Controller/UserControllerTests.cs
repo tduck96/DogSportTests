@@ -84,12 +84,10 @@ namespace ReakPetApi.Tests.Controller
         public void UserController_GetUserFollowing_ReturnsOk()
         {
             // Arrange
-            var list = A.Fake<List<UserProfile>>();
+            var list = A.Fake<IEnumerable<UserListDto>>();
             var userId = 1;
-            var dtos = A.Fake<List<UserListDto>>();
 
             A.CallTo(() => _userProfileRespository.GetUserFollowing(userId)).Returns(list);
-            A.CallTo(() => _mapper.Map<List<UserListDto>>(list)).Returns(dtos);
 
             // Act
             var result = _userController.GetFollowing(userId);
